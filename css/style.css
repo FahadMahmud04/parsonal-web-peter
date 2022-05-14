@@ -16,13 +16,14 @@ padding: 50px 50px;
 
 }
 .h-left{
-width: 40%;
+width: 45%;
 float: left;
 padding-top: 100px;
-padding-left: 200px;
+padding-left: 100px;
+
 }
 .h-left h1{
-    color: rgb(211, 0, 130);
+    color:hotpink;
     font-weight: 700px;
     font-size: 60px;
     font-family:sans-serif;
@@ -32,8 +33,11 @@ padding-left: 200px;
     font-family:initial;
     
 }
+.description{
+    color: #5a615e;
+}
 .h-right{
-width: 40%;
+width: 45%;
 float: right;
 padding-top: 50px;
 }
