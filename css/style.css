@@ -135,10 +135,27 @@ box-shadow: -2px 2px 5px 5px rgb(54, 53, 53);
     background-image: url('../images/latest-work-bg.png');
     background-position: right;
     background-repeat: no-repeat;
+    justify-content: center;
 }
 .full-width{
     font-size: 25px;
     text-align: center;
-    font-weight: bold;
-    padding-top: 20px;
+    font-weight:bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 2%;
+    display: block;
+}
+.work-image{
+    padding: 20px 20px;
+    width: 20%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 2%;
+    align-items: center;
+ 
+
+}
+.work-image img{
+    width: 100%;
 }
